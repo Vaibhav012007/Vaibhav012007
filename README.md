@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhav-dhaka-789967322)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@Vaibhav_Dhaka)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavdhaka79@gmail.com?subject=GitHub%20Contact&body=Hi%20Vaibhav,)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavdhaka79@gmail.com?subject=GitHub%20Inquiry&body=Hello%20Vaibhav,%0A%0A)
  
 
 # 💻 Tech Stack:
